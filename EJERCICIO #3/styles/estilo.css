@@ -1,0 +1,45 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+h1{
+	background-color:blue;
+	color:white;
+}
+
+div#contenido{
+	background-color:blue;
+	color:white;
+}
+
+div#img{
+	width:150px;
+	height:200px;
+	padding-left:1000px;
+	background-image: url(https://i.pinimg.com/originals/b2/48/1e/b2481e36071c10f1a36633295e45b1b0.jpg);
+	background-repeat: no-repeat;
+	background-position:600px 0px;
+	background-size:150px 200px;
+}
+
+table{
+	width:60%;
+	border:1px solid #000;
+}
+
+th{
+	color:white;
+	background-color:#0000ff;
+	width:25%;
+	text-align:left;
+	vertical-align:top;
+	border:1px solid #000;
+}
+
+td{
+	width:25%;
+	text-align:left;
+	vertical-align:top;
+	border:1px solid #000;
+}
